@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aydearcas, I´m a Spanish Social Anthropologist and Web Developer.
+- 👋 Hi, I’m @aydearcas, I´m a Spanish Social Anthropologist and Junior Web Developer.
 - 👀 I’m interested in Development, Social Science, Technology and Human-Technology relationship.
 - 🌱 I’m currently learning VueJS, React and TypeScript
 - 🌱 I´d love to learn Python, Data Science and AI and about their possibilities for social research.
